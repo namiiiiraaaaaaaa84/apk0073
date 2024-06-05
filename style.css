@@ -1,0 +1,66 @@
+body {
+    background-color: pink;
+}
+
+.container {
+    width: 66%;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid pink;
+    border-radius: 10px;
+    background-color: rgb(209, 124, 152);
+}
+
+.form-group {
+    margin-bottom: 15px;
+    width: 400px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.nilai-section {
+    margin-bottom: 15px;
+    width: 400px;
+}
+
+.nilai {
+    width: 45%;
+}
+
+.button-group {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.save-btn {
+    background-color: palevioletred;
+    color: white;
+}
+
+.cancel-btn {
+    background-color: #f44336;
+    color: white;
+}
+
+.reset-btn {
+    background-color: palevioletred;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 3px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: pink;
+}
